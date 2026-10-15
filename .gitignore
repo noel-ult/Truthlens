@@ -24,6 +24,10 @@ venv/
 env/
 venv_truthlens/
 
+# Downloaded Hugging Face models and copied repository metadata
+/truthlens-models/
+/models/.gitattributes
+
 # Jupyter
 .ipynb_checkpoints
 *.ipynb_checkpoints/
