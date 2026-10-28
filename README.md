@@ -740,10 +740,14 @@ features = extract_features(img)   # HOG + LBP → numpy array
 
 ## 📝 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This README identifies the project as MIT-licensed, but no LICENSE file is tracked in this revision. Confirm and add the intended license terms before redistribution.
 
 ---
 
 <div align="center">
   Made with ❤️ for the TruthLens AI Image Detection Project
 </div>
+
+<!-- developer-handbook-20261028 -->
+[Developer guide](docs/PROJECT_GUIDE.md) · [Source reference](docs/REFERENCE.md)
+<!-- /developer-handbook-20261028 -->
